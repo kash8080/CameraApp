@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="InQueue">In Queue</string>
+    <string name="uploading_file">Uploading File</string>
+    <string name="uploaded">Uploaded</string>
+    <string name="error">Error</string>
+    <string name="curApplicationId">com.km.cameraapp</string>
+    <string name="downloadFolderName">CameraApp</string>
+</resources>
